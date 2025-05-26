@@ -11,7 +11,7 @@ const teamMembers = [
   { id: 8, name: "Dillon Gregg", grade: 11, role: "Testing Engineer" },
   { id: 9, name: "Makayla Joe", grade: 10, role: "Electronics" },
   { id: 10, name: "Ismaeel Kassim", grade: 11, role: "Backend Developer" },
-  { id: 11, name: "Awa Keita", grade: 12, role: "Project Manager" },
+  { id: 11, name: "Awa Keita", grade: 12, role: "Electronics" },
   { id: 12, name: "Mohammed", grade: 11, role: "Electronics" },
   { id: 13, name: "Christian Rose", grade: 12, role: "QA Engineer" },
   { id: 14, name: "Youssouf Toure", grade: 11, role: "DevOps Specialist" },
